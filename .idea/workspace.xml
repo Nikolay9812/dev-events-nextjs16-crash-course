@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfcdd3ec-ae7b-40e6-982e-aad349fa3121" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/dashboard/analytics/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/dashboard/users/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/dashboard/users/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/about/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/error.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/books/[id]/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/books/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/db.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/EventCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/EventCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ExploreBtn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ExploreBtn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constants.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="50" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nikolay9812"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nikolay9812/dev-events-nextjs16-crash-course.git",
+    "accountId": "2ee41ba1-dc7f-489b-932b-21ef5c00dfe7"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CrhPJnj7zFEzvOCTGBOz3J0LYF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JavaScript Debug.calendar.svg.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Nikolay\\WebstormProjects\\nextjs_demo\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\Nikolay\\WebstormProjects\\nextjs_demo\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo\lib" />
+      <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo" />
+      <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo\app" />
+      <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo\app\(dashboard)\dashboard\users" />
+      <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo\app\(dashboard)\dashboard" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.calendar.svg">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="calendar.svg" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:3000/icons/calendar.svg">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.calendar.svg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-WS-261.22158.274" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfcdd3ec-ae7b-40e6-982e-aad349fa3121" name="Changes" comment="" />
+      <created>1777149571181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777149571181</updated>
+      <workItem from="1777149572186" duration="1885000" />
+      <workItem from="1777169895290" duration="2068000" />
+      <workItem from="1777172011696" duration="1086000" />
+      <workItem from="1777173119780" duration="2701000" />
+      <workItem from="1777176114527" duration="1073000" />
+      <workItem from="1777215999378" duration="643000" />
+      <workItem from="1777216659154" duration="4691000" />
+      <workItem from="1777390775281" duration="3846000" />
+      <workItem from="1777397065523" duration="94000" />
+      <workItem from="1777397197284" duration="375000" />
+      <workItem from="1777474801071" duration="7962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
