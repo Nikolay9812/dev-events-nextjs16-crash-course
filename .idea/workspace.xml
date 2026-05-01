@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfcdd3ec-ae7b-40e6-982e-aad349fa3121" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/mongodb.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="cfcdd3ec-ae7b-40e6-982e-aad349fa3121" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,8 +83,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo\lib" />
       <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo" />
+      <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo\lib" />
       <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo\app" />
       <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo\app\(dashboard)\dashboard\users" />
       <recent name="C:\Users\Nikolay\WebstormProjects\nextjs_demo\app\(dashboard)\dashboard" />
@@ -144,7 +139,7 @@
       <workItem from="1777397197284" duration="375000" />
       <workItem from="1777474801071" duration="8220000" />
       <workItem from="1777608469024" duration="2692000" />
-      <workItem from="1777620915852" duration="2372000" />
+      <workItem from="1777620915852" duration="2929000" />
     </task>
     <servers />
   </component>
