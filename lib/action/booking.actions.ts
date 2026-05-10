@@ -16,7 +16,9 @@ export const createBooking = async ({
     await Booking.create({ eventId, slug, email });
     return { success: true };
   } catch (error) {
-    console.error("create booking failed", error);
+    console.error("create booking failed", {
+      message: error instanceof Error ? error.message : "unknown_error",
+    });
     return { success: false };
   }
 };
